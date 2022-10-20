@@ -14,6 +14,9 @@ let hardhatConfigs = {
     },
     mainnet: {
       url: provider
+    },
+    goerli: {
+      url: provider
     }
   },
   solidity: "0.8.6",
